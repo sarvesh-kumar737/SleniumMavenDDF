@@ -1,2 +1,2 @@
-# SleniumMavenDDF
-This is Maven with Data Driven Framework
+# Selenium Projects
+<br> This repository contains the Test Project
